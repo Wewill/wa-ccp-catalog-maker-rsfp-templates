@@ -1,1 +1,1 @@
-{"master":"Master_A4_Print","content":[{"template":"Html","html":"\u003Cp\u003Etest\u003C\/p\u003E","type":"html","title":"test","color":""},{"template":"Break page","type":"page_break"}]}
+{"master":"Master_A4_Print","content":[{"template":"Html","html":"\u003Cp\u003Etest\u003C\/p\u003E","type":"html","title":"test","color":""},{"template":"Test-ferme","data":"171","data2":"","displayBy":"film","order":"name_simplified","type":"farm"},{"template":"Break page","type":"page_break"}]}
